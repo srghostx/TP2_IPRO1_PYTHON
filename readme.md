@@ -45,25 +45,24 @@ Diseñar un algoritmo que ordene en forma creciente tres valores diferentes `a`,
 
 7. Sin ejecutar el código en la computadora, ingresando primero “a” y luego “v” debe mostrar todas las salidas en la pantalla.
 
-`print("Este programa mezcla dos colores.")`
-`print(" r. Rojo a. Azul")`
-`primera = input(" Elija un color (r o a): ")`
-`if primera == "r":
-`print(" a. Azul v. Verde")`
-`segunda = input(" Elija otro color (a o v): ")
-if segunda == "a":
-print("La mezcla de Rojo y Azul producen Magenta.")
+`print("Este programa mezcla dos colores.")`<br>
+`print(" r. Rojo a. Azul")`<br>
+`primera = input(" Elija un color (r o a): ")`<br>
+`if primera == "r":<br>
+`print(" a. Azul v. Verde")`<br>
+`segunda = input(" Elija otro color (a o v): ")<br>
+if segunda == "a":<br>
+print("La mezcla de Rojo y Azul producen Magenta.")<br>
+else:<br>
+print("La mezcla de Rojo y Verde producen Amarillo.")<br>
+else:<br>
+print(" v. Verde r. Rojo")<br>
+segunda = input(" Elija otro color (v o r): ")<br>
+if segunda == "v":<br>
+print("La mezcla de Azul y Verde producen Cian.")<br>
 else:
-print("La mezcla de Rojo y Verde producen Amarillo.")
-else:
-print(" v. Verde r. Rojo")
-segunda = input(" Elija otro color (v o r): ")
-if segunda == "v":
-print("La mezcla de Azul y Verde producen Cian.")
-else:
-print("La mezcla de Azul y Rojo producen Magenta.")
-print("¡Hasta la próxima!")`
-
+print("La mezcla de Azul y Rojo producen Magenta.")<br>
+print("¡Hasta la próxima!")`<br>
 8. Sin ejecutar el código en la computadora, ¿Cuál es la salida por la pantalla? Para los siguientes valores:
 
 ![img1](./img/img1.png)
@@ -72,15 +71,24 @@ print("¡Hasta la próxima!")`
 debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.
 10. Diseñar dos programas que utilicen la sentencia selectiva simple y la sentencia encadenada if…elif…else…, el
 programa debe pedir la edad y en función del valor recibido mostrará un mensaje diferente.
+
 ● si el valor de la edad es negativo, se trata de un error
+
 ● si el valor de la edad está entre 0 y 17, se trata de un menor de edad
+
 ● si el valor de la edad es superior o igual a 18, se trata de un mayor de edad
+
 11. Hacer dos programas que utilicen la sentencia selectiva compuesta (anidada) y la sentencia if…elif…else…, el
 programa debe pedir un número y mostrará:
+
 ● si es múltiplo de dos,
+
 ● si es múltiplo de cuatro (y de dos)
+
 ● si no es múltiplo de dos
+
 Nota: El valor 0 se considerará múltiplo de 4 y de 2.
+
 12. Un instituto de enseñanza de inglés necesita un programa que le permita, cada día, procesar observaciones
 sobre las clases de ese día. El instituto dicta clases a estudiantes de distintos niveles y cada nivel tiene clases
 en un día de la semana diferente: los lunes se dicta el Nivel Inicial, los martes el Nivel Intermedio, los
