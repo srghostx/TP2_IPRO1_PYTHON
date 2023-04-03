@@ -1,3 +1,5 @@
+#  ESTRUCTURA SELECTIVA
+
 ## Casos de Estudio
 Analice, diseñe y codifique los siguientes enunciados en Python
 1. Una institución de educación, con regímenes tanto diurnos como vespertinos, considera lo siguiente en su
