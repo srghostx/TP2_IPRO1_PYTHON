@@ -49,7 +49,7 @@ Diseñar un algoritmo que ordene en forma creciente tres valores diferentes `a`,
 `print(" r. Rojo a. Azul")`<br>
 `primera = input(" Elija un color (r o a): ")`<br>
 `if primera == "r": 
-`print(" a. Azul v. Verde")`<br> 
+print(" a. Azul v. Verde")<br> 
 `segunda = input(" Elija otro color (a o v): ")<br>
 if segunda == "a": <br>
 
