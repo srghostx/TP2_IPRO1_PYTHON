@@ -48,21 +48,23 @@ Diseñar un algoritmo que ordene en forma creciente tres valores diferentes `a`,
 `print("Este programa mezcla dos colores.")`<br>
 `print(" r. Rojo a. Azul")`<br>
 `primera = input(" Elija un color (r o a): ")`<br>
-`if primera == "r":<br>
-`print(" a. Azul v. Verde")`<br>
+`if primera == "r": 
+`print(" a. Azul v. Verde")` 
 `segunda = input(" Elija otro color (a o v): ")
-if segunda == "a":
+if segunda == "a": 
+
 print("La mezcla de Rojo y Azul producen Magenta.")
 else:
 print("La mezcla de Rojo y Verde producen Amarillo.")
 else:
-print(" v. Verde r. Rojo")<br>
-segunda = input(" Elija otro color (v o r): ")<br>
+print(" v. Verde r. Rojo")
+segunda = input(" Elija otro color (v o r): ")
 if segunda == "v":<br>
-print("La mezcla de Azul y Verde producen Cian.")<br>
+print("La mezcla de Azul y Verde producen Cian.")
 else:
-print("La mezcla de Azul y Rojo producen Magenta.")<br>
+print("La mezcla de Azul y Rojo producen Magenta.")
 print("¡Hasta la próxima!")`
+
 8. Sin ejecutar el código en la computadora, ¿Cuál es la salida por la pantalla? Para los siguientes valores:
 
 ![img1](./img/img1.png)
