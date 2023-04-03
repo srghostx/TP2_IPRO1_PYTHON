@@ -1,3 +1,28 @@
+## Casos de Estudio
+Analice, diseñe y codifique los siguientes enunciados en Python
+1. Una institución de educación, con regímenes tanto diurnos como vespertinos, considera lo siguiente en su
+proceso académico: si un estudiante de régimen vespertino tiene una nota de presentación mayor o igual a 6,
+se exime, y si no alcanza el 6 pero tiene una nota de presentación igual o mayor a 3.5, rinde examen. Si el
+estudiante es de régimen diurno, si su nota de presentación es mayor o igual a 3.5, rinde examen (no hay
+posibilidad de eximirse). En ambos regímenes, si la nota de presentación es menor que 3.5, reprueba. Hacer la
+tabla de decisión y escriba el algoritmo correspondiente.
+## Ejercicios
+1. Si r = 10, s = 0, resolver mostrando el orden de los pasos la siguiente expresión lógica:
+(r != 10) or not (s == -r) or not((True or r >= 10) and not (s <= 0 and True))
+2. Dadas v, w, z variables de tipo numérico entero escribir las expresiones lógicas correspondientes a los
+siguientes enunciados:
+A. v es no positivo y w es no menor o igual a cero.
+B.  v, w, z son diferentes entre sí.
+C. v es no nulo y w no es mayor a z.
+D. w está estrictamente entre v y z.
+E. v es igual a w o z es no negativo pero no ambos a la vez.
+3. Analice el siguiente código en Python:
+1. clave = "iprog1"
+2. contraseña = input("Introduce la contraseña: ")
+3. if clave == contraseña:
+4. print("La contraseña coincide")
+5. else:
+6. print("La contraseña NO coincide")
 
 - ¿Cuándo se visualizará en la pantalla el mensaje “coincide”?
 - Si ingresa en la variable contraseña iProg1, ¿Qué mensaje se verá en la pantalla?
